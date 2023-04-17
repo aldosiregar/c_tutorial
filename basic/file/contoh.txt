@@ -1,0 +1,2 @@
+ini line pertama yang ditulis menggunakan fprintf
+ini line kedua yang ditulis menggunakan fputs
